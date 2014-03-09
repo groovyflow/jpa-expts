@@ -1,0 +1,5 @@
+target/*
+jpa-expts/*
+.classpath
+.project
+.settings/*
